@@ -1,0 +1,13 @@
+fly.toml
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.git/
+.github/
+.pytest_cache/
+.vscode/
+*.md
+*.log
+downloads/
+.DS_Store
